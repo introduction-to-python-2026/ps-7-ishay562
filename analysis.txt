@@ -1,1 +1,2 @@
-
+in the histogram i saw that the price of the NVDA stock was worth most of the time 50$ and was on the 214$ (highest price) mark only about 3 days and on the 14$ (lowest price) about 50 days.
+in the scatter plot i saw that the population of israel has grown steadly in the past 15 years and betwin 2023 and 2022 has grown faster but then it decreased.
